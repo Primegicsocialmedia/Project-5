@@ -1,2 +1,8 @@
 @import "tailwindcss";
 
+@utility centerChild {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
