@@ -1,6 +1,7 @@
 import React, { useState } from "react";
-import { descriptions, images } from "../data";
+import { descriptions} from "../data";
 import { ArrowLeft, ArrowRight } from "lucide-react";
+import { images } from "../data";
 
 
 const getRandomNumber = () => {
