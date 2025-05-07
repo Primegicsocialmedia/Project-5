@@ -1,12 +1,13 @@
 
 export const images = [
-  "Project-5/images/image-1.jpg",
-  "Project-5/images/image-2.jpg",
-  "Project-5/images/image-3.jpg",
-  "Project-5/images/image-4.jpg",
-  "Project-5/images/image-5.jpg",
+  "/images/image-1.jpg",
+  "/images/image-2.jpg",
+  "/images/image-3.jpg",
+  "/images/image-4.jpg",
+  "/images/image-5.jpg",
   
-];
+  
+];  
 
 export const descriptions = [
   "Small🐶 breeds like Chihuahuas, Pomeranians, or Dachshunds are known for their playful, energetic, and loyal nature. Despite their size, many small dogs have big personalities and love attention. They make great companions and are often affectionate with their owners.",
