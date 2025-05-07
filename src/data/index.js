@@ -1,10 +1,10 @@
 
 export const images = [
-  "/images/image-1.jpg",
-  "/images/image-2.jpg",
-  "/images/image-3.jpg",
-  "/images/image-4.jpg",
-  "/images/image-5.jpg",
+  "Project-5/images/image-1.jpg",
+  "Project-5/public/images/image-2.jpg",
+  "Project-5/public/images/image-3.jpg",
+  "Project-5/public/images/image-4.jpg",
+  "Project-5/public/images/image-5.jpg",
   
 ];
 
